@@ -1,0 +1,21 @@
+In round 1 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:00:56.702272
+In round 2 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:01:13.950636
+In round 3 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:01:30.705805
+In round 4 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:01:41.953855
+In round 1 Archie Panettieri selected rock computer   selected rock It's a tie! 2022-09-15 17:07:32.513186
+In round 2 Archie Panettieri selected scissors computer   selected scissors It's a tie! 2022-09-15 17:07:46.332526
+In round 3 Archie Panettieri selected scissors computer   selected paper The Scissors beats the Paper! Archie wins 2022-09-15 17:07:57.082653
+In round 4 Archie Panettieri selected paper computer   selected scissors The Scissors beats the Paper! computer wins 2022-09-15 17:08:15.785778
+In round 5 Archie Panettieri selected rock computer   selected scissors The Rock beats the Scissors! Archie wins 2022-09-15 17:08:38.332254
+In round 1 Amora Panettieri selected paper Computer   selected scissors The Scissors beats the Paper! Computer wins 2022-09-15 17:10:44.077075
+In round 2 Amora Panettieri selected rock Computer   selected scissors The Rock beats the Scissors! Amora wins 2022-09-15 17:11:10.978417
+In round 3 Amora Panettieri selected scissors Computer   selected rock The Rock beats the Scissors! Computer wins 2022-09-15 17:11:22.496857
+In round 4 Amora Panettieri selected rock Computer   selected paper The Paper beats the Rock! Computer wins 2022-09-15 17:11:36.946310
+In round 5 Amora Panettieri selected rock Computer   selected rock It's a tie! 2022-09-15 17:11:59.824627
+In round 1 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:13:57.770335
+In round 2 Lexi Panettieri selected scissors Computer   selected scissors It's a tie! 2022-09-15 17:14:21.882984
+In round 3 Lexi Panettieri selected scissors Computer   selected rock The Rock beats the Scissors! Computer wins 2022-09-15 17:14:29.634158
+In round 4 Lexi Panettieri selected paper Computer   selected rock The Paper beats the Rock! Lexi wins 2022-09-15 17:14:50.177257
+In round 5 Lexi Panettieri selected paper Computer   selected rock The Paper beats the Rock! Lexi wins 2022-09-15 17:15:06.011612
+In round 6 Lexi Panettieri selected paper Computer   selected rock The Paper beats the Rock! Lexi wins 2022-09-15 17:15:33.429537
+In round 1 Joshua Panettier selected paper Sam Panettieri selected scissors The Scissors beats the Paper! Sam wins 2022-09-15 20:54:31.297602
